@@ -1,2 +1,2 @@
 # SesAPI
-![SesAPI Logo]([http://url/to/img.png](https://media.discordapp.net/attachments/1170434746199834704/1175499333832024064/logo.png?ex=656b7410&is=6558ff10&hm=04fa64609edde47d0aa9caa3abb8f559f4da7c4f3f30f31398a7d0584f157e2c&=&width=2880&height=900)https://media.discordapp.net/attachments/1170434746199834704/1175499333832024064/logo.png?ex=656b7410&is=6558ff10&hm=04fa64609edde47d0aa9caa3abb8f559f4da7c4f3f30f31398a7d0584f157e2c&=&width=2880&height=900)
+![logo](https://github.com/Naflouille-Creations/sesame-api/assets/69418024/97c461c7-5637-49b9-aca7-d2c8e66f3dac)
